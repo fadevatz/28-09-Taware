@@ -1,8 +1,6 @@
 .git
 .gitignore
 .dockerignore
-Dockerfile
-nginx.conf
 node_modules
 npm-debug.log
 .DS_Store
