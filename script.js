@@ -1,5 +1,5 @@
 /* ==========================================================================
-   INTERACTIVE SCRIPTS - DRA. LÍGIA YOSHIDA LANDING PAGE
+   INTERACTIVE SCRIPTS - LARISSA SALMAZO | LSS CLÍNICA PSICÓLOGICA
    ========================================================================== */
 
 document.addEventListener('DOMContentLoaded', () => {
