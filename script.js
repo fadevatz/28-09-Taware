@@ -1,5 +1,5 @@
 /* ==========================================================================
-   INTERACTIVE SCRIPTS - LARISSA SALMAZO | LSS CLÍNICA PSICÓLOGICA
+   INTERACTIVE SCRIPTS - PSICÓLOGA ROSÂNGELA CARVALHO (CRP 06/161414)
    ========================================================================== */
 
 document.addEventListener('DOMContentLoaded', () => {
