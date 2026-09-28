@@ -1,5 +1,5 @@
 /* ==========================================================================
-   INTERACTIVE SCRIPTS - PSICÓLOGA ROSÂNGELA CARVALHO (CRP 06/161414)
+   INTERACTIVE SCRIPTS - PSICÓLOGA TAWANE LANKASTER (CRP 06/226726)
    ========================================================================== */
 
 document.addEventListener('DOMContentLoaded', () => {
